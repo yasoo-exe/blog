@@ -1,4 +1,7 @@
-# Investment Portfolio Review
+# First Year in Pakistan Stock Exchange (PSX)
+
+tldr: ![image](https://github.com/yasoo-exe/blog/assets/76653084/6ca14cad-6280-4f05-b436-71912e0a6e62)
+
 
 ## Introduction
 Upon departing my call center role in November 2022 to pursue a bachelor's degree in computer science and a career as a web developer, I found myself with surplus funds earmarked for a two-year horizon. Having previously invested in Bitcoin post-crash, I strategically directed the remaining capital into the Pakistan Stock Exchange (PSX). This article chronicles my investment journey and highlights key insights.
