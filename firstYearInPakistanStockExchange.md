@@ -1,6 +1,6 @@
 # First Year in Pakistan Stock Exchange (PSX)
 
-tldr: ![image](https://github.com/yasoo-exe/blog/assets/76653084/6ca14cad-6280-4f05-b436-71912e0a6e62)
+ <img src="https://github.com/yasoo-exe/blog/assets/76653084/6ca14cad-6280-4f05-b436-71912e0a6e62" />
 
 
 ## Introduction
